@@ -1,0 +1,58 @@
+<docttype html>
+<html>
+    <title>ASSIGNMENT 3DEC</title>
+    <style>
+        img{
+            width: 400px;
+            height: 500px;
+            margin-top: 10%;
+            margin-left: 20%;
+            border-radius: 38px;
+        }
+        body{
+            background-color: black;
+        }
+        h1{
+            color:wheat;
+            margin-left: 60%;
+            margin-top: -25%;
+            font-size: 60px;
+        }
+        h4{
+            margin-left: 79%;
+            margin-top: 1%;
+            color: white;
+            font-size: 15px;
+            
+        }
+        h5{
+            margin-left: 68%;
+            margin-top: -10px;
+            color: white;
+            font-size: 15px;
+        }
+        h6{
+            margin-left: 60%;
+            margin-top: -15px;
+            color: white;
+            font-size: 15px;
+        }
+    </style>
+    <body>
+        <img src="https://i5.walmartimages.com/asr/cb8f75e5-1b8e-4c06-9776-0d995a314ada.88ab53492f6fe7e653033585616419b1.jpeg">
+        <h1>IPhone 14 pro</h1>
+        <h4>                          Dynamic Island</h4>
+          <h5>6.1 inch(diagonal) all screen OLED display</h5>
+           <h6>ProMotion technology with adaptive refresh rate up to 120Hz</h6> 
+
+        
+    </body>
+    
+</html>
+
+
+
+
+
+
+
