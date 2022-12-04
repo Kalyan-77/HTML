@@ -1,0 +1,77 @@
+<docttype html>
+    <html>
+        <style>
+            body{
+                background-color: black;
+            }
+            h1{
+                color:whitesmoke;
+                font-size: 30px;
+               margin-top: 300px;
+               margin-left: 100px;
+            
+            }
+            center{
+                color: white;
+            }
+            div{
+                margin-left: 600px;
+                float: right;
+                margin-right: 400px;
+                color: white;
+                font-weight: 20px;
+            }
+           h2{
+            color: whitesmoke;
+            font-size: 18px;
+            margin-left: 110px;
+            margin-top: -20px;
+           }
+           h3{
+            color: whitesmoke;
+            font-size: 18px;
+            margin-left: 120px;
+            margin-top: -15px;
+           }
+           h4{
+            color: whitesmoke;
+            font-size: 18px;
+            margin-left: 200px;
+            margin-top: -20px;
+           }
+           p1{
+            font-size: 30px;
+           }
+           p2{
+            color: whitesmoke;
+            font-size: 18px;
+            margin-left:-30px;
+           }
+           p3{
+            color: whitesmoke;
+            font-size: 18px;
+            margin-left: -18px;
+
+           }
+           p4{
+            color: whitesmoke;
+            font-size: 18px;
+            margin-left: 79px;
+
+           }
+        </style>
+        <title>3rd page</title>
+        <body>
+           <center> _________________________________________________________________</center>
+           <h1>Trade in your smartphone for credit.</h1>
+           <h2>with Apple Trade In,you can get credit towards a new </h2>
+           <h3> when you trade in an eligible smartphone.Its good  </h3>
+           <h4>for you and the planet.</h4></p>
+           <div style="margin-top: -125px;">
+           <p1>Still have questions?just ask.</p1><br/>
+           <p2>You wont find a better place place to buy iphone.we know </p2><br/>
+           <p3>about Carries,payment options and more.And we make it<br/> </p3>
+           <p4>easy to understand</p4><br/>
+        </div>
+        </body>
+    </html>
