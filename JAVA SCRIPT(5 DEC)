@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript</title>
+</head>
+
+<body>
+    <h1>Javascript</h1>
+    <script src="index.js"></script>
+</body>
+
+</html>
+
+
+
+//single line comment
+//console.log(5 + 1)
+
+/*console.log(
+    3
+    +
+     1) multiline comment */
+
+// alert('Lets study js')
+// alert('Hi everyone')
+
+//Variable
+
+// let message; //variable declaration
+// message = 'hello' //variable initialization
+// alert(message)
+
+// let message = 'hello world'
+// alert(message)
+
+// let user = 'john',
+//     age = 20,
+//     message = 'hello';
+
+// console.log(user, age, message)
+
+
+// const userBirthday = '18/05/2000';
+// userBirthday = 'abcsdklsan'
+
+
+//Data Types
+//8 types of datatypes
+
+//Number
+let n = 123
+n = 20.1234
+//a number can represent both integer and floating point numbers
+
+//special numeric values 
+
+// alert(1 / 0) //Infinity
+
+// alert('text' / 5)  NaN
+
+// var a = '10'
+// var b = 5
+
+
+//BigInt
+//(2power10 - 1) , -(2power10 - 1)
+
+// const bigInt = 312345678900987654321123456789009876543
+
+// console.log(typeof bigInt)
+
+//String
+//Boolean
+//null
+//null pointer, nothing, empty, the value is unknown
+// let age = null;
+
+// console.log(typeof age)
+
+//undefined
+//value is not assigned
+let age;
+
+alert(age)
+
+
+
+//objects
